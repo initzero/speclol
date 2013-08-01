@@ -152,15 +152,15 @@ type GameKeyInfo struct {
 
 // getLastChunkInfo response
 type LastChunkInfo struct {
-	KeyFrameId         int `"json:gameKey"`
-	Duration           int `"json:gameKey"`
-	NextChunkId        int `"json:gameKey"`
-	NextAvailableChunk int `"json:gameKey"`
-	ChunkId            int `"json:gameKey"`
-	AvailableSince     int `"json:gameKey"`
-	EndGameChunkId     int `"json:gameKey"`
-	EndStartupChunkId  int `"json:gameKey"`
-	StartGameChunkId   int `"json:gameKey"`
+	KeyFrameId         int `"json:keyFrameId"`
+	Duration           int `"json:duration"`
+	NextChunkId        int `"json:nextChunkId"`
+	NextAvailableChunk int `"json:nextAvailableChunk"`
+	ChunkId            int `"json:chunkId"`
+	AvailableSince     int `"json:availableSince"`
+	EndGameChunkId     int `"json:endGameChunkId"`
+	EndStartupChunkId  int `"json:endStartupChunkId"`
+	StartGameChunkId   int `"json:startGameChunkId"`
 }
 
 func main() {
