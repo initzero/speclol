@@ -1,0 +1,11 @@
+{
+   "keyFrameId" : 5,
+   "duration" : 29992,
+   "nextChunkId" : 13,
+   "nextAvailableChunk" : 2934,
+   "chunkId" : 13,
+   "availableSince" : 26964,
+   "endGameChunkId" : 0,
+   "endStartupChunkId" : 3,
+   "startGameChunkId" : 5
+}

@@ -1,0 +1,85 @@
+{
+   "lastKeyFrameId" : 8,
+   "keyFrameTimeInterval" : 60000,
+   "port" : 0,
+   "encryptionKey" : "",
+   "pendingAvailableChunkInfo" : [
+      {
+         "receivedTime" : "Jul 31, 2013 7:07:10 PM",
+         "duration" : 30005,
+         "id" : 13
+      },
+      {
+         "receivedTime" : "Jul 31, 2013 7:07:39 PM",
+         "duration" : 30003,
+         "id" : 14
+      },
+      {
+         "id" : 15,
+         "receivedTime" : "Jul 31, 2013 7:08:10 PM",
+         "duration" : 30010
+      },
+      {
+         "id" : 16,
+         "duration" : 29990,
+         "receivedTime" : "Jul 31, 2013 7:08:39 PM"
+      },
+      {
+         "id" : 17,
+         "receivedTime" : "Jul 31, 2013 7:09:10 PM",
+         "duration" : 29999
+      },
+      {
+         "id" : 18,
+         "duration" : 29986,
+         "receivedTime" : "Jul 31, 2013 7:09:39 PM"
+      },
+      {
+         "duration" : 30009,
+         "receivedTime" : "Jul 31, 2013 7:10:10 PM",
+         "id" : 19
+      }
+   ],
+   "lastChunkId" : 19,
+   "createTime" : "Jul 31, 2013 7:01:06 PM",
+   "startGameChunkId" : 5,
+   "featuredGame" : true,
+   "decodedEncryptionKey" : "",
+   "gameEnded" : false,
+   "delayTime" : 150000,
+   "gameLength" : 0,
+   "startTime" : "Jul 31, 2013 7:02:39 PM",
+   "interestScore" : 2454,
+   "endStartupChunkId" : 3,
+   "clientBackFetchingEnabled" : false,
+   "pendingAvailableKeyFrameInfo" : [
+      {
+         "receivedTime" : "Jul 31, 2013 7:07:09 PM",
+         "nextChunkId" : 13,
+         "id" : 5
+      },
+      {
+         "receivedTime" : "Jul 31, 2013 7:08:09 PM",
+         "nextChunkId" : 15,
+         "id" : 6
+      },
+      {
+         "nextChunkId" : 17,
+         "receivedTime" : "Jul 31, 2013 7:09:09 PM",
+         "id" : 7
+      },
+      {
+         "id" : 8,
+         "receivedTime" : "Jul 31, 2013 7:10:09 PM",
+         "nextChunkId" : 19
+      }
+   ],
+   "clientAddedLag" : 30000,
+   "chunkTimeInterval" : 30000,
+   "gameKey" : {
+      "platformId" : "NA1",
+      "gameId" : 1012048148
+   },
+   "gameServerAddress" : "",
+   "clientBackFetchingFreq" : 1000
+}
